@@ -1,7 +1,7 @@
 {
   "name": "hey_mercedes_js",
-  "version": "1.0.0",
-  "description": "premier essai JS",
+  "version": "1.0.1",
+  "description": "ex1 et ex2 JS",
   "main": "hey_mercedes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
