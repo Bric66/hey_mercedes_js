@@ -1,0 +1,19 @@
+{
+  "name": "hey_mercedes_js",
+  "version": "1.0.0",
+  "description": "premier essai JS",
+  "main": "hey_mercedes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bric66/hey_mercedes_js.git"
+  },
+  "author": "C.HEROUARD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bric66/hey_mercedes_js/issues"
+  },
+  "homepage": "https://github.com/Bric66/hey_mercedes_js#readme"
+}
